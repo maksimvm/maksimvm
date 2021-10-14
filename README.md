@@ -4,7 +4,7 @@
 I'm Maksim Gromov from Russian Federation, and I do iOS Development. I really enjoy learning languages and frameworks like Swift/Objective-C and R.swift, SnapKit, KingFisher, Alamofire and etc.
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=swift,ruby,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksimgromov&hide=swift,ruby,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2" />
 </a>
 <a href="https://github.com/maksimgromov/maksimgromov">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maksimgromov&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maksim's GitHub Stats" />
