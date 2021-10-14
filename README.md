@@ -17,7 +17,9 @@ I'm Maksim Gromov from Russian Federation, and I do iOS Development. I really en
 * ⌨️ Jira, Confluence, Git.
 
 ## How to reach me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maksimgromov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='icloud' height='40'>](mgromov@icloud.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](adnotam2)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maksimgromov)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='icloud' height='40'>](mailto:mgromov@icloud.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/9138830288)  
 
 ## Examples of Work
 <img src="https://github.com/maksimgromov/maksimgromov/blob/main/notes.gif" width="256" >
