@@ -16,8 +16,8 @@ I'm Maksim Gromov from Russian Federation, and I do iOS Development. I really en
 
 
 ## Examples of Work
-<img src="https://github.com/maksimgromov/maksimgromov/blob/main/notes.gif" width="512" >
-<img src="https://github.com/maksimgromov/maksimgromov/blob/main/reminders.gif" width="512" >
-<img src="https://github.com/maksimgromov/maksimgromov/blob/main/watchNotes.gif" width="512" >
+<img src="https://github.com/maksimgromov/maksimgromov/blob/main/notes.gif" width="256" >
+<img src="https://github.com/maksimgromov/maksimgromov/blob/main/reminders.gif" width="256" >
+<img src="https://github.com/maksimgromov/maksimgromov/blob/main/watchNotes.gif" width="256" >
 
 
