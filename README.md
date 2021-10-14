@@ -1,5 +1,3 @@
-![Design and Development](https://github.com/maksimgromov/maksimgromov/blob/main/banner.png)
-
 # Maksim Gromov
 I'm Maksim Gromov from Russian Federation, and I do iOS Development. I really enjoy learning languages and frameworks like Swift/Objective-C and R.swift, SnapKit, KingFisher, Alamofire and etc.
 
