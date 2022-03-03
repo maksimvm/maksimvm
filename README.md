@@ -8,10 +8,10 @@ I'm Maksim Gromov from Russian Federation, and I do iOS Development. I really en
 
 ## Skills and Experience
 * 📱 Swift
-* 🍮 R.swift, KingFisher, SnapKit, Yandex Maps Mobile, Apple MapKit
+* 🍮 R.swift, KingFisher, Nuke, SnapKit, Yandex Maps Mobile, Apple MapKit, Fastlane, Firebase (Crashlytics, Cloud Messaging, Remote Config), Sentry, Cocoapods, Swift Package Manager
 * 🛣 Interface Builder (Storyboard, XIB/NIB) and programatically
 * 🏛 MV(X) - (MVC, MVP, MVVM), and Clean Architecture
-* 🍏 App Clips, iOS Widgets, watchOS App
+* 🍏 App Clips, iOS Widgets, watchOS Apps
 * ⌨️ Jira, Confluence, Git
 
 ## How to reach me
