@@ -14,7 +14,7 @@ I'm Maksim Gromov from Russian Federation, and I do iOS Development. I really en
 ##
 * 🤖 Kotlin
 ##
-* 🏛 MV(X) - (MVC, MVP, MVVM), and Clean Architecture
+* 🏛 MV(X) - (MVC, MVP, MVVM) and Clean Architecture
 * ⌨️ Jira, Confluence, Git
 
 ## How to reach me
