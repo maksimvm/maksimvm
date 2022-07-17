@@ -10,17 +10,12 @@ I'm Maksim Gromov from Russian Federation, and I do iOS Development. I really en
 * 📱 Swift
 * 🍮 R.swift, KingFisher, Nuke, SnapKit, Yandex Maps Mobile, Apple MapKit, Fastlane, Firebase (Crashlytics, Cloud Messaging, Remote Config), Sentry, Cocoapods, Swift Package Manager
 * 🛣 Interface Builder (Storyboard, XIB/NIB) and programatically
-* 🏛 MV(X) - (MVC, MVP, MVVM), and Clean Architecture
 * 🍏 App Clips, iOS Widgets, watchOS Apps
+
+* 🤖 Kotlin
+
+* 🏛 MV(X) - (MVC, MVP, MVVM), and Clean Architecture
 * ⌨️ Jira, Confluence, Git
 
 ## How to reach me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maksimgromov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='icloud' height='40'>](mailto:mgromov@icloud.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+79138830288)  
-
-## Examples of Work
-<img src="https://github.com/maksimgromov/maksimgromov/blob/main/notes.gif" width="256" > <img src="https://github.com/maksimgromov/maksimgromov/blob/main/reminders.gif" width="256" > 
-<img src="https://github.com/maksimgromov/maksimgromov/blob/main/watchNotes.gif" width="256" >
-
-
-
-
