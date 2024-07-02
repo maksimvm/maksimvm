@@ -1,5 +1,5 @@
 # Hello, friend.
-I'm iOS Developer in Russia. I really enjoy learning languages and frameworks like Swift/Objective-C and R.swift, SnapKit, KingFisher, Alamofire and etc.
+I'm iOS Developer. I really enjoy learning languages and frameworks like Swift/Objective-C and R.swift, SnapKit, KingFisher, Alamofire and etc.
 
 <a href="https://github.com/maksimgromov/maksimvm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maksimvm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maksim's GitHub Stats" />
